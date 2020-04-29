@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lordring_app/precache-manifest.d0f2d24a35c78472c36e7eea3ab9f7ad.js"
+  "/lordring_app/precache-manifest.e3d6d75349ce71fa2e43d2a81fee93c4.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "671f834157a304a35aaa23402b7471b2",
+    "revision": "740117a67e90d0834be532160cc15fd4",
     "url": "/lordring_app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lordring_app/static/css/2.24cc4e5d.chunk.css"
   },
   {
-    "revision": "484c27641a6917ffe0cb",
+    "revision": "ba84312d76a5ac3b82b2",
     "url": "/lordring_app/static/css/main.ff9d87fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lordring_app/static/js/2.7f822b49.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "484c27641a6917ffe0cb",
-    "url": "/lordring_app/static/js/main.f0f115c2.chunk.js"
+    "revision": "ba84312d76a5ac3b82b2",
+    "url": "/lordring_app/static/js/main.e3f5cd2a.chunk.js"
   },
   {
     "revision": "9b1f591782c65f4b5cdf",
