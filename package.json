@@ -28,6 +28,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "homepage": "https://anjitha7575.github.io/lordring_app/",
   "browserslist": {
     "production": [
       ">0.2%",
